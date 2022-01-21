@@ -1,0 +1,30 @@
+{
+    "name": "cadiducho/flarum-sketchfab",
+    "description": "Display Sketchfabs models in your forum",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Cadiducho",
+            "email": "cadiducho@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "extra": {
+        "flarum-extension": {
+            "title": "Sketchfab",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-leaf",
+                "backgroundColor": "#06005e",
+                "color": "#6fdeed"
+            }
+        }
+    }
+}
