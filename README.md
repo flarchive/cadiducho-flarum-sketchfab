@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of cadiducho/flarum-sketchfab.** Not for installation: use [Packagist](https://packagist.org/packages/cadiducho/flarum-sketchfab) or the [upstream repository](https://github.com/Cadiducho/flarum-sketchfab).
 
-**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/cadiducho-flarum-sketchfab/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`1.0`](https://github.com/flarchive/cadiducho-flarum-sketchfab/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2022-01-21 | `^1.0.0` | [Browse](https://github.com/flarchive/cadiducho-flarum-sketchfab/tree/archive/v1.0) |
 
 Catalog entry: [packages/cadiducho-flarum-sketchfab.json](https://github.com/flarchive/archive-index/blob/main/packages/cadiducho-flarum-sketchfab.json)
 
